@@ -1,0 +1,18 @@
+[
+    {
+        "model": "polls.Question",
+        "pk":1,
+        "fields":{
+            "quesion_text":"what's new"
+        }
+    },
+    {
+        "model": "polls.Question",
+        "pk":2,
+        "fields":{
+            "quesion_text":"what's Up"
+        }
+    }
+
+
+]
